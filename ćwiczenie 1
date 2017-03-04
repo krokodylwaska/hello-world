@@ -1,0 +1,113 @@
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>CodePen - freeCodeCamp : Build a Tribute Page</title>
+	<meta name="description" content="Wspomnienie" />
+	<meta name="keywords" content="Maria Curie Skłodowska Nobel" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<link rel="stylesheet" href="style.css" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  
+	</head>
+ <body>  
+  <div class="container-fluid">
+	  <blockquote>
+      <h3>Niczego w życiu nie należy się bać, należy to tylko zrozumieć.</h3>
+      <small><cite title="M.S.-Curie">M.S.-Curie</cite></small>
+    </blockquote> 
+    
+    <h1 class="text-primary text-center text-relative"><strong>Upamiętnienie Marii Skłodowskiej - Curie</strong></h1>
+    <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZEitYeoE4Feo8PCGk-z5ROcM4GQfZic-OuWWmXiL_3jCIkBfr" class="center-block img-responsive img-thumbnail" alt="Maria Skłodowska-Curie"/>
+    <h4 class="text-center">Maria Salomea Skłodowska-Curie herbu Dołęga</h4>
+    
+  <h2>Rys biograficzny</h2>
+  <div class="row">
+   <div class="col-md-6 col-xs-12">
+     <img src="http://www.veronique.pl/wp-content/uploads/2014/01/maria_sklodowska_curie.jpg" class="img-responsive img-thumbnail" alt="Maria z mężem w pracowni" align:"left" width:450px/>
+    </div> 
+    
+    <div class="col-md-6 col-xs-12">
+    <p>Maria Skłodowska-Curie urodziła się 7 listopada 1867 roku w Warszawie. Naukę rozpoczęła w wieku 10 lat na pensji dla dziewcząt prowadzonej przez jej matkę. Ukończyła ze złotym medalem gimnazjum i w 1891 roku rozpoczęła naukę matematyki i fizyki na paryskiej Sorbonie. Fizykę ukończyła z pierwszą lokatą, zaś matematykę z drugą. Po studiach otrzymała stypendium naukowe w czasie którego poznała swego przyszłego męża - <em>Pierre'a Curie</em>.</p>
+    </div>
+    
+    <div class="col-md-6 col-xs-12">
+    <img src="http://www.druga_strona_ani.republika.pl/nobel1.jpg" class="img-responsive img-thumbnail" alt="Dyplom Nagrody Nobla z 1903r." align: "left"/>
+    </div>
+    
+    <div class="col-md-6 col-xs-12">
+    <p>Wspólnie, 18 lipca 1898 roku, przedstawili dzieło naukowe, w którym donosili o odkryciu polonu (symbol Po, liczba atomowa 84), pierwiastka nazwanego na cześć Polski, a już 26 grudnia tego samego roku wraz z <em>Gustawem Bémontem</em> donieśli o odkryciu kolejnego pierwiastka chemicznego – radu (symbol Ra, liczba atomowa 88). Cała trójka w 1903 roku otrzymała <strong>Nagrodę Nobla</strong> z fizyki, a Maria była pierwszą kobietą uhonorowaną tą nagrodą.</p>
+    </div> 
+    
+    <div class="col-xs-12"  >
+      <p>19 kwietnia 1906 roku tragicznie zginął <em>Pierre Curie</em>.</p>
+    </div>
+    
+    <div class="col-xs-12">
+      <p>7 listopada 1911 roku Szwedzka Akademia Nauk przyznała Marii <strong>drugą</strong>, tym razem samodzielną <strong>Nagrodę Nobla</strong> z chemii. Została pierwszym człowiekiem wyróżnionym tą Nagrodą dwukrotnie i pierwszą kobietą laureatką Nagrody w dziedzinie chemii.</p>
+    </div>
+    
+    <div class="col-md-6 col-xs-12">
+    <img src="https://i1.wp.com/www.crazynauka.pl/wp-content/uploads/2016/11/maria_curie.jpg" class="img-responsive img-thumbnail" alt="Maria w furgonetce z aparatem rentgenowskim." align:"left"/>
+    </div>
+    
+    <div class="col-md-6 col-xs-12">
+    <p>W czasie I Wojny Swiatowej zorganizowała specjalne samochody pozwalające na szybką i mobilną diagnostykę RTG żołnierzy.</p>
+    </div>
+    
+    <div class="col-xs-12">
+    <p>Parę lat po wojnie dwukrotnie gościła w Stanach Zjednoczonych skąd przywiozła po 1 gramie radu dla Instytutów Radowych w Paryżu i w Warszawie. W 1934 roku przyszło załamanie jej zdrowia i 4 lipca Maria zmarła w sanatorium <em>Sancellemoz</em> w <em>Passy</em>.</p><br>
+    </div>
+    
+    <div class="col-md-6 col-xs-12">
+    <img src="http://r-scale-b4.dcs.redcdn.pl/scale/o2/tvn/web-content/m/p1/i/7/2/72fc6855563ae7c675d543df460c4ab7.jpg?type=1&srcmode=3&srcx=0/1&srcy=0/1&srcw=640&srch=360&dstw=640&dsth=360&quality=80" class="img-responsive img-thumbnail" alt="Maria i Einstein" align:"left"/>
+    </div>
+    
+    <div class="col-md-6 col-xs-12">
+      <p>Maria z przyjacielem <em>Albertem Einsteinem</em>.</p>
+    </div>
+    
+    <div class="col-xs-12">
+    <p>A taki piniądz kiedyś był:</p>
+    </div>
+    
+    <div class="col-xs-12">
+    <img src="https://www.numizmatyczny.pl/photo/banknot_sklodowska_curie_20000zl_1989.jpg" class="img-responsive img-thumbnail center-block" alt="20000 z Marią" />
+    </div>  
+    
+    <div class="col-xs-12">
+  <h4>Więcej wiadomości i różne ciekawostki o Marii znajdziecie np: tu, tu i tu :)</h4>
+    </div>
+
+  <div class="col-xs-4">
+  <a href="http://www.newsweek.pl/kultura/filmy-i-seriale/maria-sklodowska-curie-8-ciekawostek-o-polskiej-noblistce,artykuly,406021,1.html" target="blank"><img src="http://www.newsweek.pl/g/i.aspx/680/0/newsweek/635817390039353610.jpg" class="img-responsive" border="0"/></a>
+  </div> 
+  <div class="col-xs-4">
+  <a href="https://pl.wikipedia.org/wiki/Maria_Sk%C5%82odowska-Curie" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wikipedia-logo-v2-pl.svg/220px-Wikipedia-logo-v2-pl.svg.png" class="img-responsive" border="0"/></a>
+  </div>
+  <div class="col-xs-4">
+  <a href="http://www.crazynauka.pl/14-rzeczy-ktorych-prawdopodobnie-nie-wiecie-o-marii-sklodowskiej-curie/" target="blank"><img src="http://www.crazynauka.pl/wp-content/uploads/2015/06/crazy_logo_ziel_duze2_trnsprnt_mniejsze-1024x115.jpg" class="img-responsive" border="0"/></a>
+  </div>
+  </div>
+</div>
+ 
+  <script src="js/libs/jquery/jquery.js"></script>
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+</body>  
+</html>
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-image: url(https://thumbs.dreamstime.com/t/kolor-ta-farby-projektu-1367304.jpg);
+  padding: 25px;
+}
+img {
+  width:auto;
+  height: 350px;
+  margin-bottom: 15px;
+  }
+p {
+  font-size: 20px;
+  margin-botton: 20px;
+}
