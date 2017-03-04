@@ -96,3 +96,18 @@
   <script type="text/javascript" src="js/bootstrap.js"></script>
 </body>  
 </html>
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-image: url(https://thumbs.dreamstime.com/t/kolor-ta-farby-projektu-1367304.jpg);
+  padding: 25px;
+}
+img {
+  width:auto;
+  height: 350px;
+  margin-bottom: 15px;
+  }
+p {
+  font-size: 20px;
+  margin-botton: 20px;
+}
